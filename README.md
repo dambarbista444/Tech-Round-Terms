@@ -10,7 +10,7 @@ By downloading, accessing, or using Tech Round, you agree to be bound by these T
 
 Tech Round is designed to provide technical interview preparation resources, including questions, answers, and examples. All content is provided for educational purposes and to assist users in their interview preparation.
 
-3. # Subscription Services
+3. Subscription Services
 
 Tech Round offers premium content through a subscription model. By subscribing, you agree to the applicable fees and billing terms at the time of purchase. Subscription management, including renewals and cancellations, is handled through the App Store or Google Play.
 
